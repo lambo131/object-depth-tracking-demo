@@ -1,0 +1,8 @@
+1. 
+-create conda venv and activate it
+-install packages:
+pip install opencv-python
+pip install numpy pygame imutils
+
+
+2. run the Main.py
